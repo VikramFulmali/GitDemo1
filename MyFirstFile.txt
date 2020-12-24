@@ -1,2 +1,0 @@
-Hi this is my first txt file.
-I want to make some changes to commit 2.
